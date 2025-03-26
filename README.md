@@ -1,9 +1,7 @@
 # student-mentalhealth-analysis
-Does going to university in a different country affect your mental health? A Japanese international university surveyed its students in 2018 and published a study the following year that was approved by several ethical and regulatory boards.
-
-The study found that international students have a higher risk of mental health difficulties than the general population, and that social connectedness (belonging to a social group) and acculturative stress (stress associated with joining a new culture) are predictive of depression.
-
-
-Explore the `students` data using PostgreSQL to find out if you would come to a similar conclusion for international students and see if the length of stay is a contributing factor.
-
-Here is a data description of the columns you may find helpful.
+Analysis of the dataset and attempts to answer the questions posed by it's author:
+1. Do international students have higher depression scores (todep) compared to domestic students?
+2. Does the length of stay (stay) impact depression levels among international students?
+3. Is there a correlation between social connectedness (tosc) and depression (todep)?
+4. Does acculturative stress (toas) predict higher depression scores in international students?
+5. Do students with higher Japanese language proficiency (japanese_cate) report lower acculturative stress?
