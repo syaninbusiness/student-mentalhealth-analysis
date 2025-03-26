@@ -1,4 +1,4 @@
-# student-mentalhealth-analysis
+# Analyzing Students' Mental Health - [Datasets](https://www.kaggle.com/datasets/abdallahprogrammer/students-mental-health)
 Analysis of the dataset and attempts to answer the questions posed by it's author:
 1. Do international students have higher depression scores (todep) compared to domestic students?
 2. Does the length of stay (stay) impact depression levels among international students?
